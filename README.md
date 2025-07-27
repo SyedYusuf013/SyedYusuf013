@@ -1,6 +1,28 @@
 # 💫 About Me:
-Title<br>Hey there! 👋, Welcome to my GitHub. <br>I'm Syed Fayeque Uddin Yusuf<br><br>Subtitle<br>Software Developer | Passionate About Web Technologies & Scalable Solutions<br><br>Work<br>🔭 I’m currently working on<br>Code Master—A code-based learning and practice platform to improve coding skills with topic-wise guidance and interactive UI.<br>https://www.codemster.com/<br><br>👯 I’m looking to collaborate on<br>Job Portal—A platform to connect job seekers and employers with features like resume filtering, job matching, and real-time application tracking.<br>Not deployed yet<br><br>🤝 I’m looking for help with<br>Employee Management System – A real-time collaborative task manager with team roles, status updates, and visual analytics.<br>https://syed-employee-management-system.vercel.app/<br><br>🌱 I’m currently learning<br>TypeScript, Django, Flask, and improving my skills in the MERN stack. Next, I’m diving into DevOps.<br><br>💬 Ask me about<br>React.js, Next.js, JavaScript (ES6+), Python, Tailwind CSS, and building scalable MERN stack apps.<br><br>📫 How to reach me<br>syedfayequeuddinyusuf@gmail.com<br>syedyusuf8448@gmail.com<br><br>👨‍💻 All of my projects are available at<br>https://syed-portfolio-website.onrender.com/<br><br>📝 I regularly write articles on<br>Coming soon!<br><br>📄 Know about my experiences<br>My Resume (https://drive.google.com/file/d/1cIdBs61BCpSqZ4K_qPP4XZII7tj8xxN8/view?usp=drive_link)<br><br>⚡ Fun fact<br>I think better while coding with music on and coffee nearby—debugging becomes 10x faster (well, almost 😄)
+<h1 align="center">Hey there! 👋 Welcome to my GitHub I'm Syed Fayeque Uddin Yusuf</h1>
+<h3 align="center">Software Developer | A Passionate About Web Technologies & Scalable Solutions</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedyusuf013&label=Profile%20views&color=0e75b6&style=flat" alt="syedyusuf013" /> </p>
+
+- 🔭 I’m currently working on [Code Master – A code-based learning and practice platform to improve coding skills with topic-wise guidance and interactive UI.](https://www.codemster.com/)
+
+- 🌱 I’m currently learning *TypeScript, Django, Flask, and improving my skills in the MERN Stack. Next, I’m diving into DevOps.*
+
+- 👯 I’m looking to collaborate on [Job Portal – A platform to connect job seekers and employers with features like resume filtering, job matching, and real-time application tracking.](Not deployed yet)
+
+- 🤝 I’m looking for help with [Employee Management System – A real-time collaborative task manager with team roles, status updates, and visual analytics.](https://syed-employee-management-system.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [my portfolio](https://syed-portfolio-website.onrender.com/)
+
+- 📝 I regularly write articles on Coming soon!
+
+- 💬 Ask me about *React.js, Next.js, JavaScript (ES6+), Python, Tailwind CSS, and building scalable MERN stack apps.*
+
+- 📫 How to reach me *syedfayequeuddinyusuf@gmail.com, syedyusuf8448@gmail.com*
+
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1cIdBs61BCpSqZ4K_qPP4XZII7tj8xxN8/view?usp=drive_link)
+
+- ⚡ Fun fact *I think better while coding with music on and coffee nearby—debugging becomes 10x faster (well, almost 😄)*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/syed.yusuf511?rdid=jzijgukahrqchoue&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2f1msjjubra6%2f#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/syedfyusuf09/?igsh=aw5jdhhly3k0yjk%3d#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-yusuf-859a82220/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31156194/syed-yusuf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/yusufsyed37573) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedfayequeuddinyusuf@gmail.com, syedyusuf8448@gmail.com) 
