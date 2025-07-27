@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hey there! 👋 Welcome to my GitHub I'm Syed Fayeque Uddin Yusuf</h1>
+<h1 align="center">Hey there! 👋, Welcome to my GitHub<br>I'm Syed Fayeque Uddin Yusuf</br></h1>
 <h3 align="center">Software Developer | A Passionate About Web Technologies & Scalable Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedyusuf013&label=Profile%20views&color=0e75b6&style=flat" alt="syedyusuf013" /> </p>
